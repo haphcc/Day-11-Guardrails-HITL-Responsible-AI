@@ -1,6 +1,6 @@
 # Part B: Individual Report - Assignment 11
 
-Student: ____________________  
+Student: Ha Hung Phuoc - 2A202600367
 Course: AICB-P1 - AI Agent Development  
 Date: 2026-04-16
 
